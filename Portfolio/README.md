@@ -9,9 +9,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 ### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+Particle.js, Tilt.js, Scroll Reveal, Font Awesome and JSON
 
-## 📌 Sneak Peek of Main Page 🙈 :
+
 ![screencapture-file-C-Users-sharv-OneDrive-Desktop-Portfolio-index-html-2024-03-17-00_13_19](https://github.com/Sharvil9/Portfolio/assets/92010337/2c302309-5311-4053-8660-1998b01e4c39)
 
 
@@ -22,7 +22,7 @@ If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/sharvilkhade/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2022 Sharvil Khade
+© 2024 Sharvil Khade
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
